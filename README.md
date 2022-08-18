@@ -13,6 +13,10 @@ Then activate the virtual environment you just created.
 ```
 conda activate venv-361
 ```
+You can import requirements with this command.
+```
+pip install -r requirements.txt
+```
 ## Running the Script
 The script can be run with the following command.
 ```
