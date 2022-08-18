@@ -1,5 +1,7 @@
 # RedwoodCodingChallenge
 
+This script takes a user input of a city and state and outputs the current weather in the city.
+
 ## Environment Setup
 ### Prerequisites
 * Python 3.6.1
