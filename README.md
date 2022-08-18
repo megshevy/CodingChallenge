@@ -24,6 +24,10 @@ The script can be run with the following command.
 ```
 python get_forecast.py
 ```
+
+## Future Work
+If I continued to work on this project, I would spend more time working on the fuzzy matching. This was my first time working with fuzzy matching, and I think with time I could make better matches.
+
 ## Closing Remarks
 Thank you for the opportunity to do this coding challenge!  
 Best,  
