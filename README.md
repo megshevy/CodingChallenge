@@ -1,4 +1,4 @@
-# RedwoodCodingChallenge
+# RWCodingChallenge
 
 This script takes a user input of a city and state and outputs the current weather in the city.
 
